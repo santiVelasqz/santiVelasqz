@@ -1,14 +1,10 @@
 # Hi, I´m Santiago 👋🏾 👨🏾‍💻
 
-🚀 Java Developer | Backend
+🚀 Java Developer | Backend 
 
-## 👋 Sobre mí
+💻 Especializado en Java y Spring Boot. Trabajo con el stack completo: desde bases de datos (MySQL, PostgreSQL, Oracle) y APIs REST hasta frontend con Angular, además de desarrollo móvil en Android.
 
-💻 Desarrollador de software 
-
-Especializado en Java y Spring Boot. Trabajo con el stack completo: desde bases de datos (MySQL, PostgreSQL, Oracle) y APIs REST hasta frontend con Angular, además de desarrollo móvil en Android.
-
-¿Qué he construido? Aplicaciones web completas, sistemas CRUD, integraciones backend-frontend y apps móviles con Firebase.
+🏗️ ¿Qué he construido? Aplicaciones web completas, sistemas CRUD, integraciones backend-frontend y apps móviles con Firebase.
 
 ⚡ Me gusta el código que funciona bien y se entiende fácil. Aprendo rápido cuando toca adaptarse a nuevas tecnologías o formas de trabajo. 
 
