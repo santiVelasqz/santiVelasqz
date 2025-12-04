@@ -31,7 +31,6 @@ Bases de datos
 📫 You can find me 🌍:
 
 🔗 [LinkedIn](https://www.linkedin.com/in/santiago-marín-velásquez)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([santiago-marín-velásquez](https://www.linkedin.com/in/santiago-marín-velásquez))
 
 <!--
 **santiVelasqz/santiVelasqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
