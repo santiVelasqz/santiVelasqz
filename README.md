@@ -11,13 +11,13 @@ About me
 ![J2EE](https://img.shields.io/badge/J2EE-FF6B35?style=for-the-badge&logo=java&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-:a Databases
+Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-📫 You can find me 🌍:
+You can find me 🌍:
 
 🔗 Share updates on <a href="https://www.linkedin.com/in/santiago-marín-velásquez" style="text-decoration: none; color: inherit;">LinkedIn</a> 💼
 
