@@ -19,7 +19,7 @@ About me
 
 📫 You can find me 🌍:
 
-🔗 [LinkedIn](https://www.linkedin.com/in/santiago-marín-velásquez)
+🔗 [LinkedIn](https://www.linkedin.com/in/santiago-marín-velásquez) 💼
 
 <!--
 **santiVelasqz/santiVelasqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
